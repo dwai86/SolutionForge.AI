@@ -1,1 +1,2 @@
-This is a public reporsitory to showcase my datascience projects
+This is a public reporsitory to showcase my datascience projects. 
+Lookout this space for more...
