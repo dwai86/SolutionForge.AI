@@ -8,4 +8,5 @@ Architecture, technology selection and delivery planning require multiple perspe
 The AI Solution Consultant automates this early-stage consulting workflow using specialized AI agents.
 Objective: generate a practical, decision-oriented blueprint that can serve as a starting point for technical discovery and planning.
 
+Reporsitory made public on 1-October-2026
 
